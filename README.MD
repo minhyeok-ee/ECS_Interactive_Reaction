@@ -80,6 +80,7 @@
 
 ## 📁 파일 구조
 
+```
 ML5/
 ├── libraries/
 │ ├── ml5.min.js
@@ -91,5 +92,6 @@ ML5/
 ├── sketch.js # 제스처 인식 및 애니메이션 로직
 ├── README.md # 프로젝트 설명 파일
 └── jsconfig.json
+```
 
 ---
