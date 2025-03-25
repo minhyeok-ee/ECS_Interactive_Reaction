@@ -7,6 +7,10 @@
 
 ---
 
+[![영상 제목](https://img.youtube.com/vi/hvQGOxLthzI/0.jpg)](https://www.youtube.com/watch?v=hvQGOxLthzI)
+
+---
+
 ## 🛠️ 사용 기술
 
 - p5.js: 그래픽 출력, UI 구성, 애니메이션 처리
