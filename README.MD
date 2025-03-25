@@ -7,6 +7,10 @@
 
 ---
 
+## 🎥 동영상 링크
+
+영상 녹화가 너무 어려워서 중간부터 목소리가 두 번 겹쳐서 들어간 점은 양해 부탁드립니다.
+
 [![영상 제목](https://img.youtube.com/vi/hvQGOxLthzI/0.jpg)](https://www.youtube.com/watch?v=hvQGOxLthzI)
 
 ---
